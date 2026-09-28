@@ -1,0 +1,7 @@
+# Match the version used to save bagging.pkl.
+scikit-learn==1.7.2
+streamlit==1.64.0
+joblib>=1.2
+numpy>=1.22
+pandas>=2.0
+plotly>=5.0

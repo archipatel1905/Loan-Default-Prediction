@@ -1,0 +1,20 @@
+# Python / Virtual Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDEs & Notebooks
+.ipynb_checkpoints/
+.vscode/
+.idea/
+anaconda_projects/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Large dataset & heavy trained model binary files (GitHub has a 100MB limit per file)
+Loan_data.csv
+*.pkl
+!bagging.pkl
